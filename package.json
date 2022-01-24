@@ -1,7 +1,7 @@
 {
-  "name": "nordigen-node",
+  "name": "nordigen-node-commonjs",
   "version": "1.0.0",
-  "description": "Nordigen official API client for Node.js",
+  "description": "This is a fork of Nordigen official API client for Node.js",
   "main": "lib/index.js",
   "scripts": {
     "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js --setupFiles dotenv/config",
