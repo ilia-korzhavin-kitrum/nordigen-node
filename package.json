@@ -17,10 +17,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nordigen/nordigen-node.git"
+    "url": "git+https://github.com/ilia-korzhavin-kitrum/nordigen-node.git"
   },
-  "bugs": "https://github.com/nordigen/nordigen-node/issues",
-  "homepage": "https://github.com/nordigen/nordigen-node",
+  "bugs": "https://github.com/ilia-korzhavin-kitrum/nordigen-node/issues",
+  "homepage": "https://github.com/ilia-korzhavin-kitrum/nordigen-node",
   "dependencies": {
     "dotenv": "^10.0.0",
     "node-fetch": "2.6.7"
