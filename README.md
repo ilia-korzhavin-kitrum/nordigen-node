@@ -1,7 +1,6 @@
 # Nordigen Node.js Library
 
-
-This is official Node client library for [Nordigen](https://nordigen.com/en).
+This is a fork of official Node client library for [Nordigen](https://nordigen.com/en).
 
 For a full list of endpoints and arguments, see the [docs](https://nordigen.com/en/account_information_documenation/api-documention/overview/).
 

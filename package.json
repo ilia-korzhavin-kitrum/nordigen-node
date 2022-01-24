@@ -7,7 +7,6 @@
     "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js --setupFiles dotenv/config",
     "dev": "nodemon index.js"
   },
-  "type": "module",
   "keywords": [
     "nordigen",
     "open banking",
@@ -24,7 +23,7 @@
   "homepage": "https://github.com/nordigen/nordigen-node",
   "dependencies": {
     "dotenv": "^10.0.0",
-    "node-fetch": "^3.0.0"
+    "node-fetch": "2.6.7"
   },
   "devDependencies": {
     "@babel/core": "^7.16.0",
